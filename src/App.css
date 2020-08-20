@@ -1,38 +1,87 @@
+@import url(https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Open+Sans&family=Roboto&display=swap);
+
+body {
+  font-family: 'Abril Fatface', cursive;
+font-family: 'Open Sans', sans-serif!important;
+font-family: 'Roboto', sans-serif ;
+  font-family: 'Oswald', sans-serif
+}
+
 .App {
   text-align: center;
+  padding: 10px;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#header{
+  background-color: white;
+  color:black;
+  font-weight: bolder;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.h1{
+  font-family: 'Abril Fatface', cursive !important;
+  font-weight: bolder;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card:hover{
+  background-color: #c6f5cf  !important;
+}
+.card{
+  background-color: rgb(235, 245, 235);
+  color:black
 }
 
-.App-link {
-  color: #61dafb;
+.card-title{
+  font-family: 'Abril Fatface', cursive !important;
+  font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-text, .h5, h2, h3{
+  font-family: 'Oswald', sans-serif !important;
 }
+
+.pages{
+  font-family: 'Oswald', sans-serif;
+  font-weight: bolder;
+  background-color: white;
+}
+ h2{
+  font-family: 'Abril Fatface', cursive !important;
+ }
+
+#Card1{
+  background-color: #d7a16e;
+}
+
+#Card2{
+  background-color: #9a7775;
+
+}
+#Card3{
+  background-color: #b99b7e;
+}
+#Card4{
+  background-color: #9a8059;
+}
+#Card5{
+  background-color: #d1d1d1;
+}
+#Card6{
+  background-color: #e7e8ea
+  ;
+}
+#Card7{
+  background-color: #b1d7c2
+  ;
+}
+#Card8{
+  background-color: #aabec8
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+

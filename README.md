@@ -1,68 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Historia del Consumo en Argentina
+A React made digital companion for my final thesis teaching at the course "Historia Argentina II". 
 
-## Available Scripts
+**About Consumption Studies**
 
-In the project directory, you can run:
+> In the last few decades researchers have increasingly situated practices of consumption and a consumerist ethic as central for understanding broader social and cultural change.
 
-### `npm start`
+> Consumption involves not just purchasing or using a good or service but also selecting it, maintaining it, possibly repairing it, and ultimately, disposing of it in some way. Within each of these stages there are a number of complex subprocesses that consumption studies scholars have increasingly paid attention to.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Working Link
+https://consumo-en-argentina.netlify.app/
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Run this project
+In the project directory run:
+```
+npm start
+```
+Runs the app in the development mode.
 
-### `npm test`
+Open ```http://localhost:3000``` to view in the browser.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Built with
+* React
+* HTML
+* CSS 
+* [Bootstrap](https://getbootstrap.com/) - For design
+* [Eslint](https://eslint.org/) - For code review
+* [Cypress.io](https://www.cypress.io/) - For testing
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshot
+![Screenshot](https://i.imgur.com/6SH8mjb.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Task List
+- [x] Fix image sizes for better loading performance
+- [ ] Add Cypress Integration test
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Acknowledgments
+* Hat tip to everyone at [r/argentinaPrograma](https://argentinaprograma.com/)
+* etc
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
