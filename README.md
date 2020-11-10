@@ -1,5 +1,5 @@
 # Historia del Consumo en Argentina
-A React made digital companion for my final thesis teaching at the course "Historia Argentina II". 
+A React made digital companion for my final thesis teaching at the course "Historia Argentina II". (View MASTER branch for entire project)
 
 **About Consumption Studies**
 
